@@ -16,6 +16,9 @@ $packages = @(
 	"github"
 	"f.lux"
 	"androidstudio"
+	"beyondcompare"
+	"hwmonitor"
+	"sumatrapdf"
 )
 
 echo "Setting up Chocolatey software package manager"
