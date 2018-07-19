@@ -11,6 +11,7 @@ $packages = @(
     "winamp"
 	"mpc-hc"
 	"steam"
+	"discord"
 	"itunes"
 	"git"
 	"github"
